@@ -1,1 +1,1 @@
-console.log("Hello from gitlab!");
+console.log("Hello from gitlab! ");
